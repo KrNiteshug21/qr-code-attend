@@ -27,7 +27,7 @@ const HeroSection = () => {
           </div>
           <div className="md:w-1/2">
             <img
-              src="/placeholder.svg?height=400&width=500"
+              src="/img/hero-image.png?height=400&width=500"
               alt="QR Code Attendance"
               width={500}
               height={400}
